@@ -11,8 +11,7 @@
 Tired of wandering the tech world like a lost pointer?
 **CodeXprt** is here to guide you through structured **career roadmaps**, daily coding rituals, AI-powered tools, and enough features to make your CS journey smoother than a bubble sort on already sorted data.
 
-> 🧠 *Insert meme here* — e.g. “When you finally understand recursion”
-> `![Recursion Meme](your-meme-link)`
+https://i.imgflip.com/9ww1cp.jpg
 
 ---
 
