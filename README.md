@@ -2,7 +2,7 @@
 
 ### *“Because becoming a 10x developer shouldn't require 10x anxiety.”*
 
-> 🚀 Your Ultimate Guide to a Successful Career in Computer Science — Now with 90% more memes and 100% less confusion.
+> 🚀 Your Ultimate Guide to a Successful Career in Computer Science
 
 ---
 
@@ -84,8 +84,6 @@ Tired of wandering the tech world like a lost pointer?
 
 ## 🛠 Tech Stack
 
-> *Yes, we actually built this.*
-
 * 🧑‍🎨 **Frontend:** HTML, CSS, JavaScript, React
 * 🧑‍🍳 **Backend:** Node.js, Express
 * 🤖 **AI & ML:** Gemini API
@@ -95,5 +93,3 @@ Tired of wandering the tech world like a lost pointer?
 ## 🧢 Final Words
 
 Whether you’re a newbie who just learned what a loop is, or a senior dev wondering how the juniors are this smart — **CodeXprt** is built for you.
-
-> 💬 *Insert meme here* — “When your side project is cooler than your main job”
