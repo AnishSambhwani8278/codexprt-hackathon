@@ -26,7 +26,7 @@ Tired of wandering the tech world like a lost pointer?
 * 🛠 **Project Guide** – Real projects > tutorial hell.
 * 🧩 **Custom Path Builder** – Because your journey is *your* journey.
 
-> 💡 *Insert meme here* — “Choosing a roadmap like choosing a Netflix show”
+(https://i.imgflip.com/9ww28d.jpg)
 
 ---
 
