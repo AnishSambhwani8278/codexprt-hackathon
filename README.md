@@ -26,7 +26,7 @@ Tired of wandering the tech world like a lost pointer?
 * 🛠 **Project Guide** – Real projects > tutorial hell.
 * 🧩 **Custom Path Builder** – Because your journey is *your* journey.
 
-(https://i.imgflip.com/9ww28d.jpg)
+![Meme](https://i.imgflip.com/9ww28d.jpg)
 
 ---
 
@@ -40,7 +40,7 @@ Tired of wandering the tech world like a lost pointer?
 * 📈 **Code Analyzer** – Spot inefficiencies before your interviewer does.
 * 🔍 **Plagiarism Detection** – Because copying Stack Overflow isn’t always safe.
 
-> 🤖 *Insert meme here* — “My code vs. AI debugger’s opinion of my code”
+![Meme](https://i.imgflip.com/i/9ww2ka)
 
 ---
 
