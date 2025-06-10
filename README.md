@@ -40,7 +40,7 @@ Tired of wandering the tech world like a lost pointer?
 * 📈 **Code Analyzer** – Spot inefficiencies before your interviewer does.
 * 🔍 **Plagiarism Detection** – Because copying Stack Overflow isn’t always safe.
 
-![Meme](https://i.imgflip.com/i/9ww2ka)
+![Meme](https://i.imgflip.com/9ww2ka.jpg)
 
 ---
 
@@ -53,7 +53,7 @@ Tired of wandering the tech world like a lost pointer?
 * 💼 **Professional Meetings** – Talk to actual humans doing cool things.
 * 🎤 **Mock Interviews** – Because “Tell me about yourself” shouldn’t cause panic attacks.
 
-> 🎯 *Insert meme here* — “That moment when the mock interview goes too real”
+![Meme](https://i.imgflip.com/9ww38j.jpg)
 
 ---
 
@@ -69,8 +69,6 @@ Tired of wandering the tech world like a lost pointer?
 
 * 🏁 **Hackathon Listings** – Where coders go to prove they don’t sleep.
 * 🌍 **Open Source Project Finder** – Contribute and get that “I fixed a bug” dopamine hit.
-
-> 🥳 *Insert meme here* — “First open-source contribution be like…”
 
 ---
 
